@@ -63,5 +63,5 @@ Structured ETL flow with four stages:
 ### 📌 Author
 
 **Chidinma Ukandu**  
-MSc Business Intelligence | HNG Internship Stage 8 Finalist  
-[LinkedIn](your_link) | [Portfolio](your_link)
+MSc Business Intelligence | HNG Internship -12 Finalist  
+
