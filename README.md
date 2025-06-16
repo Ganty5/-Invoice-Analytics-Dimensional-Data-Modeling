@@ -52,14 +52,14 @@ Structured ETL flow with four stages:
 
 ---
 
-### 🔍 Tools Used
+###  Tools Used
 
 - SQL & Python (Pandas)
 - Conceptual modeling with Star Schema
 
 ---
 
-### 📌 Author
+###  Author
 
 **Chidinma Ukandu**  
 MSc Business Intelligence | HNG Internship -12 Finalist  
